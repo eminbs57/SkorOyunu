@@ -1,0 +1,23 @@
+17:13:02 | START → Oyun Baslatildi - Hedef: 1 Yildiz
+17:13:02 | UPDATE → itemMoved x=18 y=1
+17:13:02 | UPDATE → itemMoved x=18 y=2
+17:13:02 | UPDATE → itemMoved x=18 y=3
+17:13:02 | UPDATE → itemMoved x=18 y=4
+17:13:02 | UPDATE → itemMoved x=18 y=5
+17:13:02 | UPDATE → itemMoved x=18 y=6
+17:13:02 | UPDATE → itemMoved x=18 y=7
+17:13:02 | UPDATE → itemMoved x=18 y=8
+17:13:02 | UPDATE → itemMoved x=18 y=9
+17:13:02 | UPDATE → itemMoved x=18 y=10
+17:13:03 | UPDATE → itemMoved x=18 y=11
+17:13:03 | UPDATE → itemMoved x=18 y=12
+17:13:03 | UPDATE → itemMoved x=18 y=13
+17:13:03 | INPUT → key=LeftArrow playerX=19 playerY=18
+17:13:03 | UPDATE → itemMoved x=18 y=14
+17:13:03 | UPDATE → itemMoved x=18 y=15
+17:13:03 | UPDATE → itemMoved x=18 y=16
+17:13:03 | INPUT → key=LeftArrow playerX=18 playerY=18
+17:13:03 | UPDATE → itemMoved x=18 y=17
+17:13:03 | UPDATE → itemMoved x=18 y=18
+17:13:03 | COLLISION → score=1 totalProcessed=1
+17:13:03 | FINISH → Oyun bitti. Basari: %100,00
